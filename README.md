@@ -1,2 +1,27 @@
-# bg-removal-tool
-A web app for removing image backgrounds using the U^2-Net model. Features include drag-and-drop uploads, side-by-side previews of original and processed images, and a responsive dark-themed UI. Built with Flask for the backend and HTML, CSS, JS, and Bootstrap for the frontend. Fast, accurate, and easy to use!
+#🌌 Image Background Remover
+Effortlessly remove image backgrounds with the power of AI! This project uses the U^2-Net deep learning model to precisely extract the foreground from an image while removing its background. 🚀
+
+
+🔥 Features
+✨ Background Removal: AI-powered precision with the U^2-Net model.
+✨ Drag-and-Drop Upload: Upload images effortlessly.
+✨ Responsive UI: Optimized for desktop, tablet, and mobile devices.
+✨ Side-by-Side Previews: Compare original and processed images.
+✨ Download Button: Easily download the processed image.
+
+🎨 Tech Stack
+Frontend
+HTML5
+CSS3 (Dark-themed)
+JavaScript
+Bootstrap
+Backend
+Python (Flask Framework)
+PyTorch (for U^2-Net)
+Pillow (Image Processing)
+🛠️ Installation Guide
+Follow these steps to set up and run the project locally:
+
+Prerequisites
+Python 3.8+
+Pip (Python package manager)
